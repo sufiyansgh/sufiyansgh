@@ -171,9 +171,10 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
 
-    # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sufiyansgh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <h1>⚡️ GitHub Stats:</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sufiyansgh&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
