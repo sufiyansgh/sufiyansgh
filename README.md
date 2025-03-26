@@ -173,7 +173,7 @@
 
 <div align="center">
   <h3>⚡️GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=sufiyansgh&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyansgh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
