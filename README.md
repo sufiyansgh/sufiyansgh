@@ -162,9 +162,6 @@
 </div>
 
 
-
-
-
 <div style="margin-bottom: 60px;"></div>
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
     <div align="center">
