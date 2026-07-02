@@ -1,13 +1,8 @@
-<h1 align="center"><samp>Vision Version Viral</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<h1 align="center"><samp>Vision Version Viral</samp> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Sufiyan</samp></h2>
 <h3 align="center"><samp>Software developer</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyansgh&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyan" /> </p>
-
-<div style="margin-bottom: 200px;"></div>
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/sufiyanslnkdin/</samp>
 
@@ -15,7 +10,6 @@
 
 <samp>- 📫 Reach me at https://x.com/calmstwt</samp>
 
-<samp>- 💻 Frontend Developer</samp>
 
 
 
